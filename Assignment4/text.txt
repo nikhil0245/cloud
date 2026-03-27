@@ -1,0 +1,3 @@
+IP Address: http://98.70.44.188/index.html
+
+Azure Storage: https://nikhilstorage12.z29.web.core.windows.net/index.html
