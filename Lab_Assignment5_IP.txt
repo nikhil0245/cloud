@@ -1,0 +1,1 @@
+assigned Public IP Address for Migrated VM: 20.205.224.255
